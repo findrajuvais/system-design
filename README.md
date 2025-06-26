@@ -1,7 +1,11 @@
 # System Design and Concepts
 
 Welcome to my GitHub page where I explain different system design concepts. Click on any of the topics below to learn more.
-
+### Design Pattern
+- [Creational Design Patterns](design-pattern/creational-design-patterns.md)
+- [Structural Design Patterns](design-pattern/structural-design-patterns.md)
+- [Behavioral Design Patterns](design-pattern/behavioral-design-patterns.md)
+  
 ### Basics:
 
 - [What is System Design?](what-is-system-design.md)
